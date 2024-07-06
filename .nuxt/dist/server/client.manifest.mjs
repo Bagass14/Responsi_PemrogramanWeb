@@ -1,0 +1,1 @@
+export { default } from "file:///C:/Users/asus/Downloads/responsi_pw-1/responsi_pw-1/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
